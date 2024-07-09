@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Gustavo de Almeida and I'm a FullStack Developer, from Brazil</h2>
+# 👾 Gustavo de Almeida(galmv_)
+
+**`FullStack Developer`**
 
 ###
 
